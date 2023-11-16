@@ -6,7 +6,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Balaji-Kamineni alt=Balaji-Kamineni/></p>
 
 <!-- <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="320"> -->
-<img align='right' src="[https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="320">
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320">
 
 <!-- ![output-onlinegiftools](https://user-images.githubusercontent.com/66035321/147825697-55ffa62f-9408-499a-a6c7-94a3c3e9669b.gif) -->
 
