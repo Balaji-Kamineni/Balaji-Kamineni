@@ -13,16 +13,17 @@
 
 
  
- - 👩‍🎓 A B.Tech graduate from IIT Guwahati with ECE major & CSE minor
- - 😀 I interned at Google for 2 consecutive summers, worked with Android TV team & Google Editors team.
- - 💻 I am a Microsoft Learn Student Ambassador.
- - 📌 I have enormous interest in Web Develpoment and Open Source.
- - 🧐 Have a glance of my work [here](https://github.com/Nikitha2309?tab=repositories)
+ - 👩‍🎓 A B.Tech graduate from IIT Guwahati with ECE major.
+ - 😀 I interned at Virtusa as PL/SQL Developer, worked with Banking Application System and Query Optimization.
+ - 💻 I am a Oracle Certified Proffesional SQL and PL/SQL Developer.
+ - 📌 I have enormous interest in Web Develpoment and Data Analytics.
+ - 🧐 Have a glance of my work [here](https://github.com/Balaji-Kamineni?tab=repositories)
  - 💻 Interested in Competitive Coding && Passionate in Web Development.
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
+ <!--
  - 🙂 Know more about me [here](https://nikitha2309.github.io/Portfolio/)
-
+-->
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Let's Connect
