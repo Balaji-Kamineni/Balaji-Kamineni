@@ -44,10 +44,10 @@
   
  ## 👨🏻‍💻 Languages and Tools <br />
  
- ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Balaji-Kamineni)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Kamineni&hide=css,scss&theme=tokyonight)
 <!--  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitha2309&theme=tokyonight) 
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Balaji-Kamineni
-https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Kamineni&hide=css,scss&theme=tokyonight
+
 -->
  <br /> 
   
