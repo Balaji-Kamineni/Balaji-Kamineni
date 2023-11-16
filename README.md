@@ -30,14 +30,14 @@
 
 
 <!-- [<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" width="3.5%"/>](https://nikitha2309.github.io/Portfolio/)  &nbsp;  -->
-<!-- <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png"/> -->
-[<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png" width="3.5%" title="Portfolio Site"/>](https://nikitha2309.github.io/Portfolio/)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" title="Email"/>](mailto:nikithareddy2309@gmail.com)  &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" title="LinkedIn"/>](https://www.linkedin.com/in/nikitha2309/)  &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%" title="Whatsapp"/>](https://api.whatsapp.com/send?phone=+919848670705)  &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" title="Facebook"/>](https://www.facebook.com/profile.php?id=100039995852083)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" title="Instagram"/>](https://www.instagram.com/nikitha_2309/)  &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" title="Twitter"/>](https://twitter.com/Nikitha2309)  &nbsp; 
+<!-- <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png"/> 
+[<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png" width="3.5%" title="Portfolio Site"/>](https://nikitha2309.github.io/Portfolio/)  &nbsp;  -->
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" title="Email"/>](mailto:kaminenibalaji44@gmail.com)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" title="LinkedIn"/>](https://www.linkedin.com/in/balajikamineni/)  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%" title="Whatsapp"/>](https://api.whatsapp.com/send?phone=+919989257458)  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" title="Facebook"/>](https://www.facebook.com/balaji.kamineni.3/)  &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" title="Instagram"/>](https://www.instagram.com/kaminenibalaji44/)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" title="Twitter"/>](https://twitter.com/KamineniBalaji4)  &nbsp; 
 <!-- <a href="mailto:nikithareddy2309@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> -->
 
 
