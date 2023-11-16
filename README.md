@@ -68,7 +68,7 @@
   
 ## 💻 My Stats <br /> 
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Nikitha2309&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Balaji-Kamineni&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <br/> <br/>
   
 <!--   <a href="https://github.com/Nikitha2309">
