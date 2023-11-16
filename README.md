@@ -15,7 +15,7 @@
  
  - 👩‍🎓 A 2023 B.Tech graduate from Institute of Aeronautical Engineering with ECE major.
  - 😀 I interned at Virtusa as PL/SQL Developer, worked with Banking Application System and Query Optimization.
- - 💻 I am a Oracle Certified Proffesional SQL and PL/SQL Developer.
+ - 💻 I am a Oracle Certified Professional SQL and PL/SQL Developer.
  - 📌 I have enormous interest in Web Develpoment and Data Analytics.
  - 🧐 Have a glance of my work [here](https://github.com/Balaji-Kamineni?tab=repositories)
  - 💻 Interested in Competitive Coding && Passionate in Web Development.
