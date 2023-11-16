@@ -6,7 +6,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Balaji-Kamineni alt=Balaji-Kamineni/></p>
 
 <!-- <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="320"> -->
-<img align='right' src="https://user-images.githubusercontent.com/66035321/147825697-55ffa62f-9408-499a-a6c7-94a3c3e9669b.gif" width="320">
+<img align='right' src="[https://user-images.githubusercontent.com/66035321/147825697-55ffa62f-9408-499a-a6c7-94a3c3e9669b.gif](https://in.images.search.yahoo.com/search/images;_ylt=AwrKArUtvFVlRxkA4A29HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZAN6RWFKdlVwZ1NGU3pXa2szSlhfMjZBBG5fcnNsdAMwBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzI3BHF1ZXJ5A2dpZiUyMGZvciUyMGNvZGVycyUyMGZvciUyMGJveXMlMjBnaWYEdF9zdG1wAzE3MDAxMTc1ODc-?p=gif+for+coders+for+boys+gif&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN885G0#id=14&iurl=https%3A%2F%2Fwww.sarvika.com%2Fwp-content%2Fuploads%2F2021%2F03%2FBackend-Developer-Python-GIF-Dribble.gif&action=click)" width="320">
 
 <!-- ![output-onlinegiftools](https://user-images.githubusercontent.com/66035321/147825697-55ffa62f-9408-499a-a6c7-94a3c3e9669b.gif) -->
 
