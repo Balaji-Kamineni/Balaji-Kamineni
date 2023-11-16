@@ -77,11 +77,11 @@
 </a> -->
 ## 🏆 My Trophies <br /> 
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Balaji-Kamineni&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   <br /><br />
   
 ## 💫 My Streaks <br />  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nikitha2309&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Balaji-Kamineni&theme=tokyonight)
 <br /> 
 
 ## 📛 My Badges <br />
