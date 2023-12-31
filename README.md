@@ -21,9 +21,9 @@
  - 💻 Interested in Competitive Coding && Passionate in Web Development.
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
- <!--
- - 🙂 Know more about me [here](https://nikitha2309.github.io/Portfolio/)
--->
+ 
+ - 🙂 Know more about me [here](https://github.com/Balaji-Kamineni/)
+
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Let's Connect
