@@ -22,7 +22,7 @@
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
  
- - 🙂 Know more about me [here](https://github.com/Balaji-Kamineni/)
+ - 🙂 Know more about me [here](https://balaji-kamineni.github.io/Portfolio/)
 
 
 
